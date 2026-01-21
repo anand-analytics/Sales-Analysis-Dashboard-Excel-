@@ -124,5 +124,5 @@ The Excel workbook is organized into three primary tables:
   - INDEX MATCH
   - Nested IF statements
   - Slicers & Timeline
-
+![Dashboard Preview](https://github.com/anand-analytics/Sales-Analysis-Dashboard-Excel-/blob/main/Sales%20Dashboard.png)
 
